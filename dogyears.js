@@ -3,7 +3,8 @@ let earlyYears = 2;
 earlyYears *= 10.5;
 let laterYears = myAge - 2;
 //ourage - 2
-laterYears *= 4; //dog years accounted for by your later years
+laterYears *= 4; 
+//dog years accounted for by your later years
 console.log(earlyYears);
 console.log(laterYears);
 let  myAgeInDogYears =  earlyYears + laterYears;
